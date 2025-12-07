@@ -1,0 +1,10 @@
+{
+  "version": "0.0.0",
+  "build_date": "2025-12-07",
+  "url": "https://gandginnovationllc.github.io/WFW/firmware/v0.0.0/Blink.ino.bin",
+  "changelog": "Initial commit, manual device restart",
+  "checksum": "???",
+  "size": 303k,
+  "compatible_hardware": ["XIAOESP32-S3-Sense"],
+  "min_partition_size": 4
+}
